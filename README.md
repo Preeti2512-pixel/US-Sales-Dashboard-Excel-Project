@@ -5,8 +5,6 @@ Interactive MS Excel Sales &amp; Profit Dashboard analyzing $2.30M in US Superst
 
 # 📊 US Superstore Sales & Profit Dashboard (MS Excel)
 
-![Sales Dashboard Preview](dashboard_preview.png)
-
 ## 📌 Project Overview
 An interactive Microsoft Excel dashboard built on the **US Superstore dataset** (2014–2017), analyzing **$2.30M in total sales**, **$286K+ in net profit**, and **37,873 units sold** across **49 US states**. This project uncovers product-level revenue drivers, category profitability trends, seasonal demand spikes, and top profit-generating customers.
 
