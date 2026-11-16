@@ -4,7 +4,7 @@ Interactive MS Excel Sales &amp; Profit Dashboard analyzing $2.30M in US Superst
 <img width="810" height="316" alt="US_Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/1b9e8e76-1336-4ba9-9eac-fde44d3c804b" />
 
 Click here to interact with the live slicers on OneDrive 👇🏻
-https://1drv.ms/x/c/12b94a8d05a3f4bf/IQDOY51H3RoOSLIKW2qvNu6dAWheLbdCJphL78S376nPnUI?e=0NArSC
+https://1drv.ms/x/c/12b94a8d05a3f4bf/IQDOY51H3RoOSLIKW2qvNu6dAWheLbdCJphL78S376nPnUI?e=Y1MHTV
 
 (Note: Due to Excel for the Web limitations in view-only mode, the Bing Map chart may not render in the browser. Please refer to the full dashboard screenshot above or download the .xlsx file to view all visuals.)
 
